@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "NavTest",
-    "slug": "NavTest",
+    "name": "AppCampus",
+    "slug": "AppCampus",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",

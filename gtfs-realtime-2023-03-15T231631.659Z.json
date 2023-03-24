@@ -1,0 +1,878 @@
+{
+  "header": {
+    "gtfsRealtimeVersion": "2.0",
+    "incrementality": "FULL_DATASET",
+    "timestamp": "1678922192"
+  },
+  "entity": [
+    {
+      "id": "d1c9fcfd-63c3-4f7d-a0a2-db140c1db26a",
+      "alert": {
+        "activePeriod": [
+          {
+            "start": "1678283100",
+            "end": "1679679000"
+          }
+        ],
+        "informedEntity": [
+          {
+            "routeId": "42"
+          }
+        ],
+        "cause": "CONSTRUCTION",
+        "effect": "DETOUR",
+        "url": {
+          "translation": [
+            {
+              "text": "https://www.bibus.fr/deviation/b96a137c-72a4-4458-9f73-85922101ad54.pdf"
+            }
+          ]
+        },
+        "headerText": {
+          "translation": [
+            {
+              "text": "Ligne 42 [déviation] A partir du lundi 6 mars"
+            }
+          ]
+        },
+        "descriptionText": {
+          "translation": [
+            {
+              "text": "Ligne 42 🚍[déviation]\n🚧A partir du lundi 6 mars, pendant 3 semaines, travaux rue Duc D'Aumale.\n❌Les arrêts Kerhallet, Baratier et Duc d’Aumale ne sont pas desservis.\n✅Arrêts de report Patinoire ou Kermenguy"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "91bdf748-41f1-4642-8d2c-286df345e1db",
+      "alert": {
+        "activePeriod": [
+          {
+            "start": "1679299200",
+            "end": "1680471900"
+          }
+        ],
+        "informedEntity": [
+          {
+            "routeId": "C"
+          }
+        ],
+        "cause": "MAINTENANCE",
+        "effect": "NO_SERVICE",
+        "headerText": {
+          "translation": [
+            {
+              "text": "Ligne C , maintenance annuelle "
+            }
+          ]
+        },
+        "descriptionText": {
+          "translation": [
+            {
+              "text": "🚠Info trafic ligne C - Arrêt du téléphérique pour opérations techniques et maintenance annuelle :\n📅du lundi 20 mars au dimanche 2 avril 2023 inclus.\n✅Pour aller aux Capucins :\n🚊ligne A ou 🚍ligne 4\n🚐Navette électrique 9h30↔️21h30, (gratuite et accessible) "
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "cf9167b7-9b22-471c-a4aa-56e2edfbb6f1",
+      "alert": {
+        "activePeriod": [
+          {
+            "start": "1676863800",
+            "end": "1680280200"
+          }
+        ],
+        "informedEntity": [
+          {
+            "routeId": "12"
+          },
+          {
+            "routeId": "55"
+          },
+          {
+            "routeId": "56"
+          }
+        ],
+        "cause": "CONSTRUCTION",
+        "effect": "DETOUR",
+        "url": {
+          "translation": [
+            {
+              "text": "https://www.bibus.fr/deviation/3e86fbfe-aa3a-44a2-a0e3-633a603272d0.pdf"
+            }
+          ]
+        },
+        "headerText": {
+          "translation": [
+            {
+              "text": "Lignes 12, 55 et 56 [déviation] à partir du 20/02"
+            }
+          ]
+        },
+        "descriptionText": {
+          "translation": [
+            {
+              "text": "Lignes 12, 55 et 56🚍 [déviation] \n🚧A partir du lundi 20 février, pendant 6 semaines, travaux rue du Roudous\n👉Direction Liberté : Les arrêts Manet, Châtaigniers et Kerzespez ne sont pas desservis\nArrêts de report Camélias et Roudous\n👉Direction Roberval : Roudous, Kerzespez, Châtaigniers et Manet\nArrêts de report La Source et Camélias"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "8f0c63da-f24b-49be-ad04-3d4f8936cfa8",
+      "alert": {
+        "activePeriod": [
+          {
+            "start": "1666966500",
+            "end": "1679848200"
+          }
+        ],
+        "informedEntity": [
+          {
+            "routeId": "50"
+          },
+          {
+            "routeId": "51"
+          }
+        ],
+        "cause": "CONSTRUCTION",
+        "effect": "DETOUR",
+        "url": {
+          "translation": [
+            {
+              "text": "https://www.bibus.fr/deviation/ec180c95-bf6d-4399-9135-c4ac16aee074.pdf"
+            }
+          ]
+        },
+        "headerText": {
+          "translation": [
+            {
+              "text": "Lignes scolaires 50 et 51 [déviation] "
+            }
+          ]
+        },
+        "descriptionText": {
+          "translation": [
+            {
+              "text": "Lignes scolaires 50 et 51 🚍 [déviation]\n🚧A partir du lundi 23 janvier, pendant 13 semaines, travaux rue docteur Kerrien\n- Vers Plouzané : \n❌Arrêts non desservis : Beaumanoir, Polygone\n✅Arrêts de report : Route de Guilers et Coat Tan\n- Vers Lanroze : \n❌Arrêts non desservis : Beaumanoir, Polygone, Beaumanoir\n✅Arrêts de report : Route de Guilers, Coat Tan, poteau collège"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "77dcd341-d340-4385-a408-8df171b2283b",
+      "alert": {
+        "activePeriod": [
+          {
+            "start": "1671278400",
+            "end": "1679074200"
+          }
+        ],
+        "informedEntity": [
+          {
+            "routeId": "23"
+          }
+        ],
+        "cause": "CONSTRUCTION",
+        "effect": "DETOUR",
+        "url": {
+          "translation": [
+            {
+              "text": "https://www.bibus.fr/deviation/20fac8ff-270f-4e07-8a21-4fcb3fe4287b.pdf"
+            }
+          ]
+        },
+        "headerText": {
+          "translation": [
+            {
+              "text": "🚍 Ligne 23 : Déviation"
+            }
+          ]
+        },
+        "descriptionText": {
+          "translation": [
+            {
+              "text": "📅A partir du 27 février, durant 2 semaines\n➡️Vers l'Arsenal : \n❌Arrêts non desservis : Pen Ar Menez, Place de Bretagne \n✅Arrêts de report : Place de Bretagne (boulevard de l'Europe), Kérinou \n➡️Vers Porte de Gouesnou : \n❌Arrêts non desservis : Pen Ar Menez, Pl. Bretagne, FFI, Chapalain, Giloux, Lambézellec\n✅Arrêts de report : Kérinou, FFI provisoire"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "40b1ffd2-42b7-4255-ad31-51a1152ccc7a",
+      "alert": {
+        "activePeriod": [
+          {
+            "start": "1678352400",
+            "end": "1679265900"
+          }
+        ],
+        "informedEntity": [
+          {
+            "routeId": "51"
+          },
+          {
+            "routeId": "52"
+          }
+        ],
+        "cause": "CONSTRUCTION",
+        "effect": "DETOUR",
+        "url": {
+          "translation": [
+            {
+              "text": "https://www.bibus.fr/deviation/352330fc-247f-4489-97bd-9a4550429ac8.pdf"
+            }
+          ]
+        },
+        "headerText": {
+          "translation": [
+            {
+              "text": "Lignes scolaires 51 et 52 Travaux route du Dellec dès 07/03"
+            }
+          ]
+        },
+        "descriptionText": {
+          "translation": [
+            {
+              "text": "A partir du Lundi 13 mars, et pour une durée d'1 semaine, des travaux 🚧 ont lieu route du Dellec\n❌ Arrêts non desservis : Kerhourlo, Croas Ar Go, Faraday, Technopôle, Ecoles, De Rochon, Piccard, Ste Anne Plage, Cosquer, Mimosas, Portzic\n✅ Arrêts de report : Château d'eau, Enclos"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "e9a0c42c-6727-4da9-91d2-a4f3e08e2da8",
+      "alert": {
+        "activePeriod": [
+          {
+            "start": "1679886000",
+            "end": "1682286300"
+          }
+        ],
+        "informedEntity": [
+          {
+            "routeId": "05"
+          }
+        ],
+        "cause": "CONSTRUCTION",
+        "effect": "STOP_MOVED",
+        "url": {
+          "translation": [
+            {
+              "text": "https://www.bibus.fr/deviation/adbfcb5c-a63d-414e-a7ec-ece89cdb957f.pdf"
+            }
+          ]
+        },
+        "headerText": {
+          "translation": [
+            {
+              "text": "Ligne 5 , déviation secteur CAF "
+            }
+          ]
+        },
+        "descriptionText": {
+          "translation": [
+            {
+              "text": "📆Lundi 27/03 pour 1 mois \n👷‍♂️Travaux Réseau de Chaleur Urbain rue Portzmoguer\nDans le sens vers Port de commerce \n❌Bouguen, Ségur, Boulogne, Portzmoguer, CAF non desservis \n▶️Report: Bouguen L01, multiplex\nDans le sens vers Provence \n❌CAF, Portzmoguer, Boulogne, Ségur\n▶️Report: Bouguen , multiplex"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "ddffa1f5-843b-4203-8e1e-ad799a24162a",
+      "alert": {
+        "activePeriod": [
+          {
+            "start": "1678784400",
+            "end": "1679074200"
+          }
+        ],
+        "informedEntity": [
+          {
+            "routeId": "23"
+          }
+        ],
+        "cause": "CONSTRUCTION",
+        "effect": "DETOUR",
+        "url": {
+          "translation": [
+            {
+              "text": "https://www.bibus.fr/deviation/2ea22822-ec22-41a4-bc7c-42275dde0ff0.pdf"
+            }
+          ]
+        },
+        "headerText": {
+          "translation": [
+            {
+              "text": "Ligne 23 [déviation] "
+            }
+          ]
+        },
+        "descriptionText": {
+          "translation": [
+            {
+              "text": "Ligne 23 [déviation] A partir du 13/03,pendant 1 semaine, travaux rue du moulin à poudre. \nL'arrêt Péguy provisoire n'est pas desservi.\nArrêt de report Kérinou"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "b2e738c8-2c96-4c83-b200-a25b3a229693",
+      "alert": {
+        "activePeriod": [
+          {
+            "start": "1678074300",
+            "end": "1679697900"
+          }
+        ],
+        "informedEntity": [
+          {
+            "routeId": "05"
+          }
+        ],
+        "cause": "CONSTRUCTION",
+        "effect": "DETOUR",
+        "url": {
+          "translation": [
+            {
+              "text": "https://www.bibus.fr/deviation/b552905a-3e26-458b-bda7-9c8b892e2392.pdf"
+            }
+          ]
+        },
+        "headerText": {
+          "translation": [
+            {
+              "text": "Ligne 5, déviation secteur Duc d'Aumale"
+            }
+          ]
+        },
+        "descriptionText": {
+          "translation": [
+            {
+              "text": "Ligne 5 🚍\n📆Lundi 06/03/23 pour 3 semaines \nIntervention réseau GRDF\n▶️Vers Port de Commerce \n❌Arrêt Duc d'Aumale non desservi\n✅Arrêt de report: Baratier Scolaire\n▶️Vers Provence \n❌Arrêt Duc d'Aumale non desservi\n✅Arrêt de report: Kergoat"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "392b770c-9734-4031-a5e0-3a5a6cff5374",
+      "alert": {
+        "activePeriod": [
+          {
+            "start": "1669995900",
+            "end": "1680890400"
+          }
+        ],
+        "informedEntity": [
+          {
+            "routeId": "40"
+          }
+        ],
+        "cause": "CONSTRUCTION",
+        "effect": "DETOUR",
+        "url": {
+          "translation": [
+            {
+              "text": "https://www.bibus.fr/deviation/23d52af2-f567-4a97-b8ff-d5d391145dd1.pdf"
+            }
+          ]
+        },
+        "headerText": {
+          "translation": [
+            {
+              "text": "Ligne 40 [Travaux] Lundi 5 Décembre, travaux rue de Kermari"
+            }
+          ]
+        },
+        "descriptionText": {
+          "translation": [
+            {
+              "text": "Ligne 40 🚍 [Travaux]\n=>Prolongation jusqu'au 07/04/2023\n[🚧 Lundi 5 Décembre, travaux rue de Kermaria\n⏰ Durée 3 mois\n❌ Arrêt non desservi : Kermaria scolaires\n✅ Arrêt de report : Pen ar Ch’leuz]\n"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "e06c422b-fc0b-4574-8dfd-d3929b3726e9",
+      "alert": {
+        "activePeriod": [
+          {
+            "start": "1675881000",
+            "end": "1696179600"
+          }
+        ],
+        "informedEntity": [
+          {
+            "routeId": "27"
+          }
+        ],
+        "cause": "OTHER_CAUSE",
+        "effect": "ADDITIONAL_SERVICE",
+        "headerText": {
+          "translation": [
+            {
+              "text": "Ligne 27 Mise en service de la ligne des serres dès le 27/02"
+            }
+          ]
+        },
+        "descriptionText": {
+          "translation": [
+            {
+              "text": "La ligne 27 (ligne des serres) reprendra du service le lundi 27 février afin d’accompagner la reprise de l’activité saisonnière des serristes de Plougastel.\n\nLa ligne 27 réalise un aller le matin depuis l’arrêt  Roc'h Kérezen à 7h24. En correspondance avec la ligne 19 Brest-Plougastel (départ de Brest Liberté) à l’arrêt Roc'h Kerezen, cette ligne permet de desservir différents lieux-dits où sont implantées les serres : Mesleiou, Sainte-Christine, Kerzivez et La Croix Rouge.\n\nLa ligne sera en service jusqu'au 2 octobre 2023.\n\nConsultez les horaires via ce lien : https://urlz.fr/kJiM"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "175f992b-427c-4924-8776-084b36833522",
+      "alert": {
+        "activePeriod": [
+          {
+            "start": "1674062100",
+            "end": "1682715600"
+          }
+        ],
+        "informedEntity": [
+          {
+            "routeId": "02"
+          },
+          {
+            "routeId": "31"
+          }
+        ],
+        "cause": "CONSTRUCTION",
+        "effect": "DETOUR",
+        "url": {
+          "translation": [
+            {
+              "text": "https://www.bibus.fr/deviation/6859c021-06cd-46eb-a114-410fe8e18d2b.pdf"
+            }
+          ]
+        },
+        "headerText": {
+          "translation": [
+            {
+              "text": "Lignes 2 et 31  [Travaux au Technopole]"
+            }
+          ]
+        },
+        "descriptionText": {
+          "translation": [
+            {
+              "text": "Lignes 2 et 31 🚍 [Travaux au Technopole]\n🚧 A partir du lundi 23 janvier, pour 3 mois,\n❌ Arrêts non desservis : Technopole, Ecoles, \nDe Rochon, Piccard\n ✅ Arrêts de report : \n->Vers Brest : Poteau provisoire et Piccard\n->Vers Plouzané : Poteaux provisoires Piccard et Technopole\n"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "a30c967f-0dab-48b7-928c-a525edc21f7a",
+      "alert": {
+        "activePeriod": [
+          {
+            "start": "1669996800",
+            "end": "1680890400"
+          }
+        ],
+        "informedEntity": [
+          {
+            "routeId": "45"
+          }
+        ],
+        "cause": "CONSTRUCTION",
+        "effect": "DETOUR",
+        "url": {
+          "translation": [
+            {
+              "text": "https://www.bibus.fr/deviation/770df450-296e-40c4-9805-a1a1c4bb2943.pdf"
+            }
+          ]
+        },
+        "headerText": {
+          "translation": [
+            {
+              "text": "Ligne 45 . [Travaux] Lundi 5 Décembre, "
+            }
+          ]
+        },
+        "descriptionText": {
+          "translation": [
+            {
+              "text": "Ligne 45 🚍 [Travaux]\n=> Prolongation pour 1 mois \n[🚧 Lundi 5 Décembre, travaux rue de Kermaria\n⏰ Durée 3 mois\n❌ Arrêt non desservi : Kermaria scolaires]\n\n"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "9d077d55-5c9f-4be7-8670-6a30d5e693be",
+      "alert": {
+        "activePeriod": [
+          {
+            "start": "1674061200",
+            "end": "1682715600"
+          }
+        ],
+        "informedEntity": [
+          {
+            "routeId": "51"
+          },
+          {
+            "routeId": "52"
+          }
+        ],
+        "cause": "CONSTRUCTION",
+        "effect": "DETOUR",
+        "url": {
+          "translation": [
+            {
+              "text": "https://www.bibus.fr/deviation/9f4906ed-6ddc-43ac-9585-f6edab8d1d23.pdf"
+            }
+          ]
+        },
+        "headerText": {
+          "translation": [
+            {
+              "text": "Lignes 51 et 52 🚍 [Travaux au Technopole"
+            }
+          ]
+        },
+        "descriptionText": {
+          "translation": [
+            {
+              "text": "Lignes 51 et 52 🚍 [Travaux au Technopole]\n🚧 A partir du lundi 23 janvier, pour 3 mois,\n❌ Arrêts non desservis : Technopole, Ecoles, \nDe Rochon, Piccard\n✅ Arrêts de report : \n-> Vers Brest : Poteaux provisoires Technopole et Piccard\n-> Vers Plouzané : Poteaux provisoires Piccard et Technopole\n"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "8a3c18f7-8f00-45d3-9ed8-dab0c5064c58",
+      "alert": {
+        "activePeriod": [
+          {
+            "start": "1675861200",
+            "end": "1679074200"
+          }
+        ],
+        "informedEntity": [
+          {
+            "routeId": "16"
+          }
+        ],
+        "cause": "CONSTRUCTION",
+        "effect": "DETOUR",
+        "url": {
+          "translation": [
+            {
+              "text": "https://www.bibus.fr/deviation/a77569f4-c5fc-4fdf-aec6-6eea50167034.pdf"
+            }
+          ]
+        },
+        "headerText": {
+          "translation": [
+            {
+              "text": "Ligne 16 [Travaux] "
+            }
+          ]
+        },
+        "descriptionText": {
+          "translation": [
+            {
+              "text": "Ligne 16 🚍[Travaux]\n❌Arrêt Liberté place non accessible\n👉Terminus à l'arrêt Liberté Multiplexe "
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "21993457-a4c1-4697-b8f0-c27bb64821bf",
+      "alert": {
+        "activePeriod": [
+          {
+            "start": "1676374200",
+            "end": "1680282000"
+          }
+        ],
+        "informedEntity": [
+          {
+            "routeId": "01"
+          }
+        ],
+        "cause": "CONSTRUCTION",
+        "effect": "DETOUR",
+        "headerText": {
+          "translation": [
+            {
+              "text": "Ligne 1 [Travaux]"
+            }
+          ]
+        },
+        "descriptionText": {
+          "translation": [
+            {
+              "text": "Ligne 1 [Travaux]\nL'arrêt Hôpital Cavale 1 n'est pas desservi"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "2009987e-d067-4b07-bd91-ba0ced2975fa",
+      "alert": {
+        "activePeriod": [
+          {
+            "start": "1678351500",
+            "end": "1679265900"
+          }
+        ],
+        "informedEntity": [
+          {
+            "routeId": "11"
+          }
+        ],
+        "cause": "CONSTRUCTION",
+        "effect": "DETOUR",
+        "url": {
+          "translation": [
+            {
+              "text": "https://www.bibus.fr/deviation/09390121-c7e9-46b1-b98f-9e4f6544f6eb.pdf"
+            }
+          ]
+        },
+        "headerText": {
+          "translation": [
+            {
+              "text": "L 11 Travaux route du Dellec dès Lundi 13 mars"
+            }
+          ]
+        },
+        "descriptionText": {
+          "translation": [
+            {
+              "text": "A partir du Lundi 13 mars, et pour une durée d'1 semaine, des travaux 🚧 ont lieu route du Dellec.\n❌ Arrêts non desservis : Kerhourlo, Croas Ar Go, Faraday, Technopôle, Ecoles, De Rochon, Piccard\n✅ Arrêts de report : Enclos, Technopôle provisoire, Piccard Provisoire"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "31c75f5f-9d4f-4b1a-b0a7-79ddb3ef990d",
+      "alert": {
+        "activePeriod": [
+          {
+            "start": "1678265100",
+            "end": "1679677200"
+          }
+        ],
+        "informedEntity": [
+          {
+            "routeId": "61"
+          }
+        ],
+        "cause": "CONSTRUCTION",
+        "effect": "DETOUR",
+        "url": {
+          "translation": [
+            {
+              "text": "https://www.bibus.fr/deviation/1889fc68-3898-4ced-a791-84be2b9c3a62.pdf"
+            }
+          ]
+        },
+        "headerText": {
+          "translation": [
+            {
+              "text": "Ligne scolaire 61 Travaux"
+            }
+          ]
+        },
+        "descriptionText": {
+          "translation": [
+            {
+              "text": "Ligne scolaire 🚍 61 uniquement dans le sens ▶️ vers Bohars\nA partir du Lundi 6 mars, et pour une durée de 3 semaines, des travaux ⚠️ ont lieu rue du Roudous.\n❌ Arrêt non desservi : Roudous\n✅ Arrêt de report : La Source"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "5127f9f2-1957-4c23-8bce-c0f058c5c4a1",
+      "alert": {
+        "activePeriod": [
+          {
+            "start": "1677748500",
+            "end": "1690876800"
+          }
+        ],
+        "informedEntity": [
+          {
+            "routeId": "A"
+          },
+          {
+            "routeId": "02"
+          },
+          {
+            "routeId": "06"
+          },
+          {
+            "routeId": "10"
+          },
+          {
+            "routeId": "21"
+          }
+        ],
+        "cause": "CONSTRUCTION",
+        "effect": "REDUCED_SERVICE",
+        "headerText": {
+          "translation": [
+            {
+              "text": "Parking relais Fort Montbarey [Travaux]"
+            }
+          ]
+        },
+        "descriptionText": {
+          "translation": [
+            {
+              "text": "A compter du lundi 6 mars, le stationnement sur le parking relais Fort Montbarey sera modifié pour une durée de 4.5 mois pour permettre la pose d’ombrières photovoltaïques. Le stationnement de tous les véhicules sera interdit de part et d’autre de l’emprise des travaux, selon les besoins durant cette période. \nNous vous présentons nos excuses pour les désagréments occasionnés et vous remercions pour votre compréhension ! "
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "b985bbd9-e855-40df-9d22-01b518130bec",
+      "alert": {
+        "activePeriod": [
+          {
+            "start": "1666965600",
+            "end": "1679765400"
+          }
+        ],
+        "informedEntity": [
+          {
+            "routeId": "04"
+          }
+        ],
+        "cause": "CONSTRUCTION",
+        "effect": "DETOUR",
+        "url": {
+          "translation": [
+            {
+              "text": "https://www.bibus.fr/deviation/28ca8248-bad8-4109-8872-898e2b820cfd.pdf"
+            }
+          ]
+        },
+        "headerText": {
+          "translation": [
+            {
+              "text": "Ligne 4 [déviation] A partir du lundi 23 janvier"
+            }
+          ]
+        },
+        "descriptionText": {
+          "translation": [
+            {
+              "text": "Ligne 4 🚍 [déviation]\n🚧A partir du lundi 12 janvier, durant 13 semaines, travaux rue docteur Kerrien\n❌Les arrêts Beaumanoir et Polygone ne sont pas desservis\n✅Arrêts de report : Route de Guilers, Vali hir, Emile Rousse + poteau provisoire direction Porte de Gouesnou "
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "0061ade8-56fc-4621-9ade-76261dabcd31",
+      "alert": {
+        "activePeriod": [
+          {
+            "start": "1678695300",
+            "end": "1679074200"
+          }
+        ],
+        "informedEntity": [
+          {
+            "routeId": "03"
+          }
+        ],
+        "cause": "CONSTRUCTION",
+        "effect": "DETOUR",
+        "url": {
+          "translation": [
+            {
+              "text": "https://www.bibus.fr/deviation/9c3a52fa-ab84-4612-8726-42ac0b2c81ed.pdf"
+            }
+          ]
+        },
+        "headerText": {
+          "translation": [
+            {
+              "text": "Ligne 3 [déviation]A partir du lundi 13 mars"
+            }
+          ]
+        },
+        "descriptionText": {
+          "translation": [
+            {
+              "text": "Ligne 3 🚍 [déviation]\n🚧A partir du lundi 13 mars, pendant une semaine, travaux non prévus rue du moulin à poudre.\n👉Modification de la déviation sur Kérinou \nPassage par la rue Joseph Le borgne\n❌Les arrêts Péguy et Pasteur non desservis"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "2c63dcb7-f17f-43e8-8e2d-f96afa00b1ca",
+      "alert": {
+        "activePeriod": [
+          {
+            "start": "1678690800",
+            "end": "1679077800"
+          }
+        ],
+        "informedEntity": [
+          {
+            "routeId": "12"
+          },
+          {
+            "routeId": "22"
+          },
+          {
+            "routeId": "55"
+          },
+          {
+            "routeId": "56"
+          }
+        ],
+        "cause": "CONSTRUCTION",
+        "effect": "DETOUR",
+        "url": {
+          "translation": [
+            {
+              "text": "https://www.bibus.fr/deviation/aadf4edb-502e-4660-88e0-b620c1de49cb.pdf"
+            }
+          ]
+        },
+        "headerText": {
+          "translation": [
+            {
+              "text": "Lignes 12, 22, 55 et 56 [déviation]A partir du lundi 13 mars"
+            }
+          ]
+        },
+        "descriptionText": {
+          "translation": [
+            {
+              "text": "Lignes 12, 22, 55 et 56 🚍[déviation]\nA partir du lundi 13 mars, pendant 1 semaine, travaux rue du Tumulus\n👉Direction Guilers :\n❌L'arrêt Roberval n'est pas desservi\n✅Arrêt de report arrêt Roberval direction Brest\n👉itinéraire normal vers Brest"
+            }
+          ]
+        }
+      }
+    }
+  ]
+}
