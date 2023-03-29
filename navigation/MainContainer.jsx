@@ -6,13 +6,13 @@ import  {ThemeProvider}  from './utils/context';
 
 
 // Screens
-import BusScreen from './screens/BusScreen';
+import BusScreen from './screens/Campus/ActuScreen';
 import CrousScreen from './screens/CrousScreen';
 import PlanningScreen from './screens/PlanningScreen';
 import SettingsScreen from './screens/SettingsScreen';
 
 //Screen names
-const busName = "Bus";
+const busName = "AppCampus";
 const crousName = "CROUS";
 const planningName = "Planning";
 const settingsName = "Settings";
@@ -24,7 +24,7 @@ function MainContainer() {
   return (
     <React.StrictMode>
       <ThemeProvider>
-        <NavigationContainer>
+        <NavigationContainer >
           <Tab.Navigator
             initialRouteName={planningName}
             screenOptions={({ route }) => ({
@@ -64,7 +64,7 @@ function MainContainer() {
             })}
             >
             <Tab.Screen name={planningName} component={PlanningScreen} />
-            <Tab.Screen name={busName} component={BusScreen} />
+            <Tab.Screen  name={busName} component={BusScreen} />
             <Tab.Screen name={crousName} component={CrousScreen} />
             <Tab.Screen name={settingsName} component={SettingsScreen} />
           </Tab.Navigator>

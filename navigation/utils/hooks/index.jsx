@@ -30,6 +30,11 @@ export function useFetch(url) {
 };
 
 
+export function usePathToUri(path) {
+    const prefix = "http://13.38.242.23/"
+    const uri = prefix + path;
+    return uri
+}
 
 export function useTheme() {
     const { theme, toggleTheme } = useContext(ThemeContext)
