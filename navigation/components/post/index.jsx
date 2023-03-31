@@ -4,7 +4,7 @@ import { usePathToUri } from '../../utils/hooks';
 
 
 
-const Post = ({ post }) => {
+const Post = ({ post, navigation }) => {
 
     const uriLogo = usePathToUri(post.editor.logo);
     const uriImage = usePathToUri(post.image);
@@ -12,7 +12,7 @@ const Post = ({ post }) => {
         <View style={styles.container}>
             <View style={styles.header}>
                 <Image style={styles.avatar} source={{ uri: uriLogo }} />
-                <Text style={styles.username}>{post.editor.name}</Text>
+                <Text onPress={() => navigation.navigate('Editor', { editorId: post.editor.id })}  style={styles.username}>{post.editor.name}</Text> 
             </View>
             <Image style={styles.image} source={{ uri: uriImage }} />
             <View style={styles.footer}>

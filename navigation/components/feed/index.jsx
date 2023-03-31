@@ -4,7 +4,7 @@ import { View, Text, StyleSheet } from 'react-native';
 import Post from '../post';
 
 
-const Feed = ({ groups }) => {
+const Feed = ({ groups, navigation }) => {
     if (!Array.isArray(groups)) {
         console.log(groups);
         return(
@@ -17,7 +17,7 @@ const Feed = ({ groups }) => {
                 groups ? ( groups.map(group =>
                     
                     group.posts.map(post => (
-                        <Post post={post} key={post.id} />
+                        <Post post={post} navigation={navigation} key={post.id} />
                     ))
                     
                 )) : (
