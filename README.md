@@ -13,7 +13,7 @@
 AppCampus est une application cross-platform développée en JSX avec Expo et React-Native. L'objectif est de fournir une application comprenant plusieurs modules destinés aux associations et aux étudiants d'un campus universitaire.
 
 ## Fonctionnalités
-- **Fil d'Actualité** : Un module connecté à la plateforme Merer (https://github.com/morgandiverrez/merer) pour afficher les actualités des associations du campus.
+- **Fil d'Actualité** : Un module connecté à la plateforme Merer](https://github.com/morgandiverrez/merer) pour afficher les actualités des associations du campus.
 - **Emploi du Temps** : Affiche les emplois du temps des étudiants selon leur établissement.
 - **Horaires de Bus** : Fournit les horaires des bus aux stations proches des lieux d'études.
 
